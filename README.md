@@ -1,14 +1,14 @@
 To Do List
 ===========
 
-*** Please note this app is not finished ***
+# Please note this app is not finished 
 
 This is a simple app which I created when I was learning to use React. 
 <br/><br/>
 
 It allows users to add items to a to do list, and also remove them using the ‘x’ button.
 
-** Please note that this app has not yet been styled **
+### Please note that this app has not yet been styled **
 
 
 
