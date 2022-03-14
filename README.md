@@ -1,7 +1,7 @@
 To Do List
 ===========
 
-# Please note this app is not finished 
+### Please note this app is not finished 
 
 This is a simple app which I created when I was learning to use React. 
 <br/><br/>
